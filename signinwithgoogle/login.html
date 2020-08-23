@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+     <!-- Firebase Package-->
+     <script src="https://www.gstatic.com/firebasejs/5.8.5/firebase.js"></script>
+
+     <!-- Loads the login UI elements-->
+     <script src="https://cdn.firebase.com/libs/firebaseui/3.5.2/firebaseui.js"></script>
+     <link type="text/css" rel="stylesheet" href="https://cdn.firebase.com/libs/firebaseui/3.5.2/firebaseui.css" />
+ 
+  
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Signin</title>
+</head>
+<body>
+    
+    <h1 style="text-align: center;" >Sign in with Google Example </h1>
+    <div id="firebaseui-auth-container">
+
+    </div>
+
+<script>
+    var config = {
+        apiKey: "AIzaSyBLg-2HBjTCH0jRmqa-320LCHJ49Cb75JM",
+    authDomain: "signinwith-7bafd.firebaseapp.com",
+    databaseURL: "https://signinwith-7bafd.firebaseio.com",
+    projectId: "signinwith-7bafd",
+    storageBucket: "signinwith-7bafd.appspot.com",
+    messagingSenderId: "398094922966",
+    appId: "1:398094922966:web:f113a210e9e10bcc094577"
+  };
+  firebase.initializeApp(config);
+firebase.auth().setPersistence(firebase.auth.Auth.Persistence.NONE);
+
+// FirebaseUI config.
+var uiConfig = {
+    signInOptions: [
+        // google sign in option
+        firebase.auth.GoogleAuthProvider.PROVIDER_ID,
+    ],
+
+    // Terms of service url/callback.
+    tosUrl: '<your-tos-url>',
+    // Privacy policy url/callback.
+    privacyPolicyUrl: function() {
+        window.location.assign('<your-privacy-policy-url>');
+    },
+
+    callbacks: {
+        signInSuccess: function(user, credential, redirectUrl) {
+            // User successfully signed in.
+
+            user.getIdToken().then(function(idToken) {
+                // document.cookie = "__session=idToken"
+                window.location.href = '/savecookie?idToken=' + idToken;
+            }).catch(error => {
+                console.log(error);
+            }) ;
+
+        }
+    }
+};
+// Initialize the FirebaseUI Widget using Firebase.
+var ui = new firebaseui.auth.AuthUI(firebase.auth());
+
+// The start method will wait until the DOM is loaded.
+ui.start('#firebaseui-auth-container', uiConfig);
+</script>
+
+
+
+
+</body>
+</html>
