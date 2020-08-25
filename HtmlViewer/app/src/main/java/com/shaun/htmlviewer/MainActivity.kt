@@ -31,8 +31,8 @@ class MainActivity : AppCompatActivity() {
             imageGetter,
             null
         )
-          val HandleImageClick=ImageClick(styledText as Spannable)
-        val HandleQuoteSpans = replaceQuoteSpans(styledText as Spannable)
+          ImageClick(styledText as Spannable)
+         replaceQuoteSpans(styledText as Spannable)
 
 
 

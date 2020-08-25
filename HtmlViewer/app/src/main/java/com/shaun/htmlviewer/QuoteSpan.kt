@@ -5,6 +5,8 @@ import android.graphics.Paint
 import android.text.Layout
 import android.text.style.LeadingMarginSpan
 import android.text.style.LineBackgroundSpan
+import android.util.Log
+
 class QuoteSpanClass(
     private val backgroundColor: Int,
     private val stripeColor: Int,
@@ -30,6 +32,7 @@ class QuoteSpanClass(
         first: Boolean,
         layout: Layout
     ) {
+        Log.d("TAG", "drawLeadingMargin: Called")
         val style = p.style
         val paintColor = p.color
         p.style = Paint.Style.FILL
