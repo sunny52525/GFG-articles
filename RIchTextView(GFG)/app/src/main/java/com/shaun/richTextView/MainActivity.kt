@@ -18,24 +18,22 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         display_html.setOnClickListener {
-            if (editor.text.isNotEmpty()) {
-                displayHtml(editor.text.toString())
-            }
+                displayHtml()
         }
     }
 
-    private fun displayHtml(html:String) {
+    private fun displayHtml() {
 
 
         val imageGetter = ImageGetter(resources, html_viewer)
         val styledText = HtmlCompat.fromHtml(
-          html,
+          htmlString().html,    //Instead of copying pasting, I kept it as a string
             HtmlCompat.FROM_HTML_MODE_LEGACY,
             imageGetter,
             null
         )
           ImageClick(styledText as Spannable)
-         replaceQuoteSpans(styledText as Spannable)
+         replaceQuoteSpans(styledText )
 
         html_viewer.text = styledText
         html_viewer.movementMethod = LinkMovementMethod.getInstance()

@@ -9,14 +9,14 @@
 
 
 <!--  Edittext to take input for this sample app,for real app you will not need this  -->
-    <EditText
-        android:id="@+id/editor"
-        android:layout_width="0dp"
-        android:layout_height="40dp"
-        app:layout_constraintEnd_toStartOf="@+id/display_html"
-        app:layout_constraintHorizontal_bias="0.0"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+<!--    <EditText-->
+<!--        android:id="@+id/editor"-->
+<!--        android:layout_width="0dp"-->
+<!--        android:layout_height="40dp"-->
+<!--        app:layout_constraintEnd_toStartOf="@+id/display_html"-->
+<!--        app:layout_constraintHorizontal_bias="0.0"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+<!--        app:layout_constraintTop_toTopOf="parent" />-->
 
 <!--    Button to trigger an event to display html/Rich text-->
     <Button
@@ -34,8 +34,9 @@
         android:layout_marginTop="16dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/editor">
+        app:layout_constraintStart_toStartOf="parent">
+<!--        app:layout_constraintTop_toBottomOf="@+id/editor"-->
+
 
 <!--  Text View in which you will display the html after processing the input-->
         <TextView
