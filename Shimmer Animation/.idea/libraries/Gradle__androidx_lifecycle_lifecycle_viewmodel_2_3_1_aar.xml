@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.lifecycle:lifecycle-viewmodel:2.3.1@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Android/Canary/.gradle/caches/transforms-3/aed9d21c95652a1c1b3bcb400a6c2bf1/transformed/lifecycle-viewmodel-2.3.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../Android/Canary/.gradle/caches/transforms-3/aed9d21c95652a1c1b3bcb400a6c2bf1/transformed/lifecycle-viewmodel-2.3.1/res" />
+      <root url="file://$PROJECT_DIR$/../Android/Canary/.gradle/caches/transforms-3/aed9d21c95652a1c1b3bcb400a6c2bf1/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../Android/Canary/.gradle/caches/transforms-3/06b4941f1a0d21344da556e1ddcacbf6/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../Android/Canary/.gradle/caches/transforms-3/06b4941f1a0d21344da556e1ddcacbf6/transformed/lifecycle-viewmodel-2.3.1/res" />
+      <root url="jar://$PROJECT_DIR$/../../Android/Canary/.gradle/caches/transforms-3/06b4941f1a0d21344da556e1ddcacbf6/transformed/lifecycle-viewmodel-2.3.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Android/Canary/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-viewmodel/2.3.1/55d6fa3541ca02167b0bd62a16fbdaec2a71622/lifecycle-viewmodel-2.3.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Android/Canary/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-viewmodel/2.3.1/55d6fa3541ca02167b0bd62a16fbdaec2a71622/lifecycle-viewmodel-2.3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

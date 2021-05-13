@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.vectordrawable:vectordrawable:1.1.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Android/Canary/.gradle/caches/transforms-3/fb53e7cd998b7e8b3bca46fc8f3f4f5b/transformed/vectordrawable-1.1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../Android/Canary/.gradle/caches/transforms-3/fb53e7cd998b7e8b3bca46fc8f3f4f5b/transformed/vectordrawable-1.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../Android/Canary/.gradle/caches/transforms-3/fb53e7cd998b7e8b3bca46fc8f3f4f5b/transformed/vectordrawable-1.1.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../Android/Canary/.gradle/caches/transforms-3/fb53e7cd998b7e8b3bca46fc8f3f4f5b/transformed/vectordrawable-1.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../../Android/Canary/.gradle/caches/transforms-3/4db5a9e27bf92ac19572c7cc05cf7d13/transformed/vectordrawable-1.1.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../Android/Canary/.gradle/caches/transforms-3/4db5a9e27bf92ac19572c7cc05cf7d13/transformed/vectordrawable-1.1.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../Android/Canary/.gradle/caches/transforms-3/4db5a9e27bf92ac19572c7cc05cf7d13/transformed/vectordrawable-1.1.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Android/Canary/.gradle/caches/modules-2/files-2.1/androidx.vectordrawable/vectordrawable/1.1.0/1e0694477eed874c50c54b547cc3e5a62a57a62b/vectordrawable-1.1.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Android/Canary/.gradle/caches/modules-2/files-2.1/androidx.vectordrawable/vectordrawable/1.1.0/1e0694477eed874c50c54b547cc3e5a62a57a62b/vectordrawable-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

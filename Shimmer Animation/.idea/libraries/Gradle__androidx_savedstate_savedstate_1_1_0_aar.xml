@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.savedstate:savedstate:1.1.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Android/Canary/.gradle/caches/transforms-3/fc2787ce39633da2dc2bd3b691b9c2e5/transformed/jetified-savedstate-1.1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../Android/Canary/.gradle/caches/transforms-3/fc2787ce39633da2dc2bd3b691b9c2e5/transformed/jetified-savedstate-1.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../Android/Canary/.gradle/caches/transforms-3/fc2787ce39633da2dc2bd3b691b9c2e5/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../Android/Canary/.gradle/caches/transforms-3/e3c512e5b4637186d3e82d1d0703756e/transformed/jetified-savedstate-1.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../../Android/Canary/.gradle/caches/transforms-3/e3c512e5b4637186d3e82d1d0703756e/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../Android/Canary/.gradle/caches/transforms-3/e3c512e5b4637186d3e82d1d0703756e/transformed/jetified-savedstate-1.1.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Android/Canary/.gradle/caches/modules-2/files-2.1/androidx.savedstate/savedstate/1.1.0/73464c2c55129727354a95ffa91dc9c2cf0c78b/savedstate-1.1.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Android/Canary/.gradle/caches/modules-2/files-2.1/androidx.savedstate/savedstate/1.1.0/73464c2c55129727354a95ffa91dc9c2cf0c78b/savedstate-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

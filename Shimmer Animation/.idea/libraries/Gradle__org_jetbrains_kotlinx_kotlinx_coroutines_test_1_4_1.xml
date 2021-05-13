@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-test:1.4.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Android/Canary/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-test/1.4.1/c15d3c30c8649d93c4d432144f6027e755091281/kotlinx-coroutines-test-1.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Android/Canary/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-test/1.4.1/c15d3c30c8649d93c4d432144f6027e755091281/kotlinx-coroutines-test-1.4.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../Android/Canary/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-test/1.4.1/cbcb58fc7d575d6b282514ea654c4a95e78ecd2b/kotlinx-coroutines-test-1.4.1-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Android/Canary/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-test/1.4.1/cbcb58fc7d575d6b282514ea654c4a95e78ecd2b/kotlinx-coroutines-test-1.4.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Android/Canary/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-test/1.4.1/36964e20cd99515201f500577f83c9999e4a846f/kotlinx-coroutines-test-1.4.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Android/Canary/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-test/1.4.1/36964e20cd99515201f500577f83c9999e4a846f/kotlinx-coroutines-test-1.4.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

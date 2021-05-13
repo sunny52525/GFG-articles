@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.compose.material:material-ripple:1.0.0-beta01@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Android/Canary/.gradle/caches/transforms-3/13add1475ba96001dde71fb9996a2e0f/transformed/jetified-material-ripple-1.0.0-beta01/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../Android/Canary/.gradle/caches/transforms-3/13add1475ba96001dde71fb9996a2e0f/transformed/jetified-material-ripple-1.0.0-beta01/res" />
+      <root url="file://$PROJECT_DIR$/../Android/Canary/.gradle/caches/transforms-3/13add1475ba96001dde71fb9996a2e0f/transformed/jetified-material-ripple-1.0.0-beta01/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../Android/Canary/.gradle/caches/transforms-3/193270c44ce3393dfddc8bdd04e8caf6/transformed/jetified-material-ripple-1.0.0-beta01/res" />
+      <root url="file://$PROJECT_DIR$/../../Android/Canary/.gradle/caches/transforms-3/193270c44ce3393dfddc8bdd04e8caf6/transformed/jetified-material-ripple-1.0.0-beta01/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../Android/Canary/.gradle/caches/transforms-3/193270c44ce3393dfddc8bdd04e8caf6/transformed/jetified-material-ripple-1.0.0-beta01/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Android/Canary/.gradle/caches/modules-2/files-2.1/androidx.compose.material/material-ripple/1.0.0-beta01/859fe958417da626ef05b4904ccbf7fbba0dfc1e/material-ripple-1.0.0-beta01-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Android/Canary/.gradle/caches/modules-2/files-2.1/androidx.compose.material/material-ripple/1.0.0-beta01/859fe958417da626ef05b4904ccbf7fbba0dfc1e/material-ripple-1.0.0-beta01-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

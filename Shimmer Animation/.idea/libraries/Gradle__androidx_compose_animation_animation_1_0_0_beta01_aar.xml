@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.compose.animation:animation:1.0.0-beta01@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Android/Canary/.gradle/caches/transforms-3/6e926d5955aefd785a9b4bbfdc4dc2d2/transformed/jetified-animation-1.0.0-beta01/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../Android/Canary/.gradle/caches/transforms-3/6e926d5955aefd785a9b4bbfdc4dc2d2/transformed/jetified-animation-1.0.0-beta01/res" />
+      <root url="file://$PROJECT_DIR$/../Android/Canary/.gradle/caches/transforms-3/6e926d5955aefd785a9b4bbfdc4dc2d2/transformed/jetified-animation-1.0.0-beta01/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../Android/Canary/.gradle/caches/transforms-3/dd51a298235baf45654fd14684e0ae0a/transformed/jetified-animation-1.0.0-beta01/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../Android/Canary/.gradle/caches/transforms-3/dd51a298235baf45654fd14684e0ae0a/transformed/jetified-animation-1.0.0-beta01/res" />
+      <root url="jar://$PROJECT_DIR$/../../Android/Canary/.gradle/caches/transforms-3/dd51a298235baf45654fd14684e0ae0a/transformed/jetified-animation-1.0.0-beta01/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Android/Canary/.gradle/caches/modules-2/files-2.1/androidx.compose.animation/animation/1.0.0-beta01/fbae31363498538436e9d6e714c9cc333e993859/animation-1.0.0-beta01-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Android/Canary/.gradle/caches/modules-2/files-2.1/androidx.compose.animation/animation/1.0.0-beta01/fbae31363498538436e9d6e714c9cc333e993859/animation-1.0.0-beta01-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

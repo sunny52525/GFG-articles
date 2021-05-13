@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.compose.ui:ui-unit:1.0.0-beta05@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Android/Canary/.gradle/caches/transforms-3/07990631b2197abf0a87521947bce3f3/transformed/jetified-ui-unit-1.0.0-beta05/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../Android/Canary/.gradle/caches/transforms-3/07990631b2197abf0a87521947bce3f3/transformed/jetified-ui-unit-1.0.0-beta05/res" />
+      <root url="file://$PROJECT_DIR$/../Android/Canary/.gradle/caches/transforms-3/07990631b2197abf0a87521947bce3f3/transformed/jetified-ui-unit-1.0.0-beta05/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../Android/Canary/.gradle/caches/transforms-3/a8269405d6888772ab8c434926304290/transformed/jetified-ui-unit-1.0.0-beta05/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../Android/Canary/.gradle/caches/transforms-3/a8269405d6888772ab8c434926304290/transformed/jetified-ui-unit-1.0.0-beta05/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../Android/Canary/.gradle/caches/transforms-3/a8269405d6888772ab8c434926304290/transformed/jetified-ui-unit-1.0.0-beta05/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Android/Canary/.gradle/caches/modules-2/files-2.1/androidx.compose.ui/ui-unit/1.0.0-beta05/8862bf9e7cae907f17c69317e9034799015e0a3b/ui-unit-1.0.0-beta05-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Android/Canary/.gradle/caches/modules-2/files-2.1/androidx.compose.ui/ui-unit/1.0.0-beta05/8862bf9e7cae907f17c69317e9034799015e0a3b/ui-unit-1.0.0-beta05-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

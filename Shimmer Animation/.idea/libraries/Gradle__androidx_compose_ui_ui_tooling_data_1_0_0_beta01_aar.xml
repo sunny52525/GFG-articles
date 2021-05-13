@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.compose.ui:ui-tooling-data:1.0.0-beta01@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Android/Canary/.gradle/caches/transforms-3/1b931ceaa9793c9f5e40f824856d1e66/transformed/jetified-ui-tooling-data-1.0.0-beta01/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../Android/Canary/.gradle/caches/transforms-3/1b931ceaa9793c9f5e40f824856d1e66/transformed/jetified-ui-tooling-data-1.0.0-beta01/res" />
+      <root url="file://$PROJECT_DIR$/../Android/Canary/.gradle/caches/transforms-3/1b931ceaa9793c9f5e40f824856d1e66/transformed/jetified-ui-tooling-data-1.0.0-beta01/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../Android/Canary/.gradle/caches/transforms-3/5d6c3d68f9dcaea691b20ce7ec00f6fd/transformed/jetified-ui-tooling-data-1.0.0-beta01/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../Android/Canary/.gradle/caches/transforms-3/5d6c3d68f9dcaea691b20ce7ec00f6fd/transformed/jetified-ui-tooling-data-1.0.0-beta01/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../Android/Canary/.gradle/caches/transforms-3/5d6c3d68f9dcaea691b20ce7ec00f6fd/transformed/jetified-ui-tooling-data-1.0.0-beta01/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Android/Canary/.gradle/caches/modules-2/files-2.1/androidx.compose.ui/ui-tooling-data/1.0.0-beta01/3610ad97d84ba1f5bcda58b200049a05518b4dc8/ui-tooling-data-1.0.0-beta01-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Android/Canary/.gradle/caches/modules-2/files-2.1/androidx.compose.ui/ui-tooling-data/1.0.0-beta01/3610ad97d84ba1f5bcda58b200049a05518b4dc8/ui-tooling-data-1.0.0-beta01-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

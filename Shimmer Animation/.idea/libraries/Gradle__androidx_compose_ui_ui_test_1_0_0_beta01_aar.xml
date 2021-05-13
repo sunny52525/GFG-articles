@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.compose.ui:ui-test:1.0.0-beta01@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Android/Canary/.gradle/caches/transforms-3/84d528eda9e76aebd66cd9eb0dffab44/transformed/jetified-ui-test-1.0.0-beta01/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../Android/Canary/.gradle/caches/transforms-3/84d528eda9e76aebd66cd9eb0dffab44/transformed/jetified-ui-test-1.0.0-beta01/res" />
+      <root url="file://$PROJECT_DIR$/../Android/Canary/.gradle/caches/transforms-3/84d528eda9e76aebd66cd9eb0dffab44/transformed/jetified-ui-test-1.0.0-beta01/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../Android/Canary/.gradle/caches/transforms-3/6ba6c8085de00a4cb8040c33a6cd0bc2/transformed/jetified-ui-test-1.0.0-beta01/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../Android/Canary/.gradle/caches/transforms-3/6ba6c8085de00a4cb8040c33a6cd0bc2/transformed/jetified-ui-test-1.0.0-beta01/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../Android/Canary/.gradle/caches/transforms-3/6ba6c8085de00a4cb8040c33a6cd0bc2/transformed/jetified-ui-test-1.0.0-beta01/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Android/Canary/.gradle/caches/modules-2/files-2.1/androidx.compose.ui/ui-test/1.0.0-beta01/686408c652f984868d4761eb1ba7b2d6406f0517/ui-test-1.0.0-beta01-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Android/Canary/.gradle/caches/modules-2/files-2.1/androidx.compose.ui/ui-test/1.0.0-beta01/686408c652f984868d4761eb1ba7b2d6406f0517/ui-test-1.0.0-beta01-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.compose.ui:ui-geometry:1.0.0-beta05@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Android/Canary/.gradle/caches/transforms-3/711cf8eaa40f71a023c365293b60f0b7/transformed/jetified-ui-geometry-1.0.0-beta05/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../Android/Canary/.gradle/caches/transforms-3/711cf8eaa40f71a023c365293b60f0b7/transformed/jetified-ui-geometry-1.0.0-beta05/res" />
+      <root url="file://$PROJECT_DIR$/../Android/Canary/.gradle/caches/transforms-3/711cf8eaa40f71a023c365293b60f0b7/transformed/jetified-ui-geometry-1.0.0-beta05/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../Android/Canary/.gradle/caches/transforms-3/6ee92a914f15cf92e6352be028b11f81/transformed/jetified-ui-geometry-1.0.0-beta05/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../Android/Canary/.gradle/caches/transforms-3/6ee92a914f15cf92e6352be028b11f81/transformed/jetified-ui-geometry-1.0.0-beta05/res" />
+      <root url="file://$PROJECT_DIR$/../../Android/Canary/.gradle/caches/transforms-3/6ee92a914f15cf92e6352be028b11f81/transformed/jetified-ui-geometry-1.0.0-beta05/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Android/Canary/.gradle/caches/modules-2/files-2.1/androidx.compose.ui/ui-geometry/1.0.0-beta05/a2466c92f4dc775a6d59e58593d5b5c741b5fe76/ui-geometry-1.0.0-beta05-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Android/Canary/.gradle/caches/modules-2/files-2.1/androidx.compose.ui/ui-geometry/1.0.0-beta05/a2466c92f4dc775a6d59e58593d5b5c741b5fe76/ui-geometry-1.0.0-beta05-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
