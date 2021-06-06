@@ -5,3 +5,6 @@ signinwithgoogle- https://www.geeksforgeeks.org/firebase-sign-in-with-google-aut
 
 
 htmlviewer -https://www.geeksforgeeks.org/how-to-display-html-in-textview-along-with-images-in-android/
+
+
+Shimmer Animation in jetack compose -https://www.geeksforgeeks.org/shimmer-animation-in-android-using-jetpack-compose/
