@@ -33,22 +33,26 @@ class MainActivity : AppCompatActivity() {
         lifecycleScope.launch {
             viewModel.commentState.collect {
 
-                if (it.status == Status.LOADING) {
-                    binding.progressBar.isVisible = true
-                } else if (it.status == Status.SUCCESS) {
-
-                    binding.progressBar.isVisible = false
-                    it.data?.let { comment ->
-
-                        binding.commentIdTextview.text = comment.id.toString()
-                        binding.nameTextview.text = comment.name
-                        binding.emailTextview.text = comment.email
-                        binding.commentTextview.text = comment.comment
+                when (it.status) {
+                    Status.LOADING -> {
+                        binding.progressBar.isVisible = true
                     }
-                } else {
+                    Status.SUCCESS -> {
 
-                    binding.progressBar.isVisible = false
-                    Toast.makeText(this@MainActivity, "${it.message}", Toast.LENGTH_SHORT).show()
+                        binding.progressBar.isVisible = false
+                        it.data?.let { comment ->
+
+                            binding.commentIdTextview.text = comment.id.toString()
+                            binding.nameTextview.text = comment.name
+                            binding.emailTextview.text = comment.email
+                            binding.commentTextview.text = comment.comment
+                        }
+                    }
+                    else -> {
+
+                        binding.progressBar.isVisible = false
+                        Toast.makeText(this@MainActivity, "${it.message}", Toast.LENGTH_SHORT).show()
+                    }
                 }
 
 
