@@ -46,10 +46,15 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
 
 
+    //Retrofit dependency
     implementation 'com.squareup.retrofit2:retrofit:2.9.0'
+    //json convertor factory
     implementation 'com.squareup.retrofit2:converter-gson:2.1.0'
 
+    //Coroutines(includes kotlin flow)
     implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-android:1.5.0'
+
+    //lifecycle components
     implementation 'androidx.lifecycle:lifecycle-extensions:2.2.0'
     implementation "androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1"
     implementation "androidx.lifecycle:lifecycle-runtime-ktx:2.3.1"

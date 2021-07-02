@@ -1,7 +1,6 @@
 package com.gfg.gfgkotlinflow.network
 
 import com.gfg.gfgkotlinflow.model.CommentModel
-import retrofit2.Call
 import retrofit2.http.GET
 import retrofit2.http.Path
 
