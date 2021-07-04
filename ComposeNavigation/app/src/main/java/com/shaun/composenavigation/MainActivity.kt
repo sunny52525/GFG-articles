@@ -5,9 +5,13 @@ import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.compose.material.MaterialTheme
 import androidx.compose.material.Surface
-import androidx.compose.material.Text
 import androidx.compose.runtime.Composable
-import androidx.compose.ui.tooling.preview.Preview
+import androidx.navigation.compose.NavHost
+import androidx.navigation.compose.composable
+import androidx.navigation.compose.rememberNavController
+import com.shaun.composenavigation.screens.Home
+import com.shaun.composenavigation.screens.Profile
+import com.shaun.composenavigation.screens.Setting
 import com.shaun.composenavigation.ui.theme.ComposeNavigationTheme
 
 class MainActivity : ComponentActivity() {
@@ -15,9 +19,8 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         setContent {
             ComposeNavigationTheme {
-                // A surface container using the 'background' color from the theme
                 Surface(color = MaterialTheme.colors.background) {
-                    Greeting("Android")
+                    ScreenMain()
                 }
             }
         }
@@ -25,14 +28,24 @@ class MainActivity : ComponentActivity() {
 }
 
 @Composable
-fun Greeting(name: String) {
-    Text(text = "Hello $name!")
-}
+fun ScreenMain() {
 
-@Preview(showBackground = true)
-@Composable
-fun DefaultPreview() {
-    ComposeNavigationTheme {
-        Greeting("Android")
+    val navController = rememberNavController()
+
+    NavHost(navController = navController, startDestination = Routes.Home.route) {
+
+        composable(Routes.Home.route) {
+            Home(navController = navController)
+        }
+
+        composable(Routes.Profile.route) {
+            Profile()
+        }
+        composable(Routes.Settings.route + "/{id}") { navBackStack ->
+            val counter = navBackStack.arguments?.getString("id")
+
+            Setting(counter = counter)
+
+        }
     }
 }
