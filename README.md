@@ -10,3 +10,7 @@ htmlviewer -https://www.geeksforgeeks.org/how-to-display-html-in-textview-along-
 Shimmer Animation in jetack compose -https://www.geeksforgeeks.org/shimmer-animation-in-android-using-jetpack-compose/
 
 Typescript-nodejs- https://www.geeksforgeeks.org/how-to-use-typescript-on-backend/
+
+ComposeNavigation - https://www.geeksforgeeks.org/jetpack-compose-navigation-and-passing-data-in-android/
+
+Bounce Animation - https://www.geeksforgeeks.org/create-bounce-animation-on-touch-in-android-jetpack-compose/
