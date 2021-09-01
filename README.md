@@ -22,3 +22,5 @@ Constraint Layout (jetpack compose) -https://www.geeksforgeeks.org/constraintlay
 Lazy Composables -https://www.geeksforgeeks.org/lazy-composables-in-android-jetpack-compose-columns-rows-grids/
 
 Scaffold -https://www.geeksforgeeks.org/scaffold-in-android-using-jetpack-compose/
+
+Lottie with Jetpack compose - https://www.geeksforgeeks.org/lottie-animation-in-android-jetpack-compose/
