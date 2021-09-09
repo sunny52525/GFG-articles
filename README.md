@@ -24,3 +24,5 @@ Lazy Composables -https://www.geeksforgeeks.org/lazy-composables-in-android-jetp
 Scaffold -https://www.geeksforgeeks.org/scaffold-in-android-using-jetpack-compose/
 
 Lottie with Jetpack compose - https://www.geeksforgeeks.org/lottie-animation-in-android-jetpack-compose/
+
+Bottom Navigation - https://www.geeksforgeeks.org/bottom-navigation-bar-in-android-jetpack-compose/
