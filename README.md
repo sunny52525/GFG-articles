@@ -26,3 +26,5 @@ Scaffold -https://www.geeksforgeeks.org/scaffold-in-android-using-jetpack-compos
 Lottie with Jetpack compose - https://www.geeksforgeeks.org/lottie-animation-in-android-jetpack-compose/
 
 Bottom Navigation - https://www.geeksforgeeks.org/bottom-navigation-bar-in-android-jetpack-compose/
+
+Canvas api - https://www.geeksforgeeks.org/canvas-api-in-android-jetpack-compose/
