@@ -28,3 +28,5 @@ Lottie with Jetpack compose - https://www.geeksforgeeks.org/lottie-animation-in-
 Bottom Navigation - https://www.geeksforgeeks.org/bottom-navigation-bar-in-android-jetpack-compose/
 
 Canvas api - https://www.geeksforgeeks.org/canvas-api-in-android-jetpack-compose/
+
+Jetpack compose interoperability(using views in compose) - https://www.geeksforgeeks.org/android-interoperability-in-jetpack-compose/
