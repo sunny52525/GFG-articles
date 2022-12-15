@@ -32,3 +32,5 @@ Canvas api - https://www.geeksforgeeks.org/canvas-api-in-android-jetpack-compose
 Jetpack compose interoperability(using views in compose) - https://www.geeksforgeeks.org/android-interoperability-in-jetpack-compose/
 
 Lazy animations-https://www.geeksforgeeks.org/animation-in-lazycolumn-and-lazyrow-in-android-jetpack-compose/
+
+Jetpack compose Interoperability - https://www.geeksforgeeks.org/android-jetpack-compose-interoperability-using-compose-in-xml-layouts/
